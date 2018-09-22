@@ -1,9 +1,9 @@
 # webpack-babel-minimal-boilerplate
 
-minimal boilerplate with webpack and babel
+Minimal boilerplate with webpack and babel
 
-to start the app:
+## To start the app:
 
-npm run build
+$ npm run build
 
-npm start
+$ npm start
