@@ -1,14 +1,14 @@
 {
-  "name": "myapp",
+  "name": "app",
   "version": "1.0.0",
-  "description": "Calculator",
-  "main": "index.js",
+  "description": "webpack babel minimal boilerplate",
+  "main": "/src/index.js",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
     "start": "webpack-dev-server --open"
   },
-  "author": "",
+  "author": "Joshan Chaudhary",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
